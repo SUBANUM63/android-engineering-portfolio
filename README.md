@@ -72,13 +72,13 @@ A production educational Android application providing Ethiopian Grade 9 student
 ### Screenshots
 
 <p align="center">
-  <img src="assets/grade9-mathematics/Screenshot_20260811_140559.png" width="180" alt="Mathematics Grade 9 application"/>
+  <img src="assets/screenshots/mathematics-grade-9/mathematics-grade9-home.png" width="180" alt="Mathematics Grade 9 application"/>
   &nbsp;
-  <img src="assets/grade9-mathematics/Screenshot_20260811_142052.png" width="180" alt="Mathematics Grade 9 textbook reader"/>
+  <img src="assets/screenshots/mathematics-grade-9/mathematics-grade9-pdf-reader.png" width="180" alt="Mathematics Grade 9 textbook reader"/>
   &nbsp;
-  <img src="assets/grade9-mathematics/Screenshot_20260811_141804.png" width="180" alt="Mathematics Grade 9 quiz"/>
+  <img src="assets/screenshots/mathematics-grade-9/mathematics-grade9-quiz.png" width="180" alt="Mathematics Grade 9 quiz"/>
   &nbsp;
-  <img src="assets/grade9-mathematics/Screenshot_20260811_141245.png" width="180" alt="Mathematics Grade 9 AI learning feature"/>
+  <img src="assets/screenshots/mathematics-grade-9/mathematics-grade9-ai-tutor.png" width="180" alt="Mathematics Grade 9 AI learning feature"/>
 </p>
 
 ### Google Play
@@ -118,13 +118,13 @@ The application uses the same general educational engineering foundation as Math
 ### Screenshots
 
 <p align="center">
-  <img src="assets/grade9-geography/Screenshot_20260807_153508.png" width="180" alt="Geography Grade 9 application"/>
+  <img src="assets/screenshots/geography-grade-9/geography-grade9-home.png" width="180" alt="Geography Grade 9 application"/>
   &nbsp;
-  <img src="assets/grade9-geography/Screenshot_20260807_153919.png" width="180" alt="Geography Grade 9 reader"/>
+  <img src="assets/screenshots/geography-grade-9/geography-grade9-pdf-reader.png" width="180" alt="Geography Grade 9 reader"/>
   &nbsp;
-  <img src="assets/grade9-geography/Screenshot_20260807_154117.png" width="180" alt="Geography Grade 9 quiz"/>
+  <img src="assets/screenshots/geography-grade-9/geography-grade9-quiz.png" width="180" alt="Geography Grade 9 quiz"/>
   &nbsp;
-  <img src="assets/grade9-geography/Screenshot_20260727_170008.png" width="180" alt="Geography Grade 9 AI Tutor"/>
+  <img src="assets/screenshots/geography-grade-9/geography-grade9-ai-tutor.png" width="180" alt="Geography Grade 9 AI Tutor"/>
 </p>
 
 ### Google Play
@@ -807,13 +807,13 @@ Progress, bookmarks, summaries, quizzes, and reading position need enough identi
 ## Screenshots
 
 <p align="center">
-  <img src="assets/grade11-textbooks/Screenshot_20260806_175951.png" width="180" alt="Grade 11 textbook library"/>
+  <img src="assets/screenshots/grade-11-textbooks/grade11-multi-subject-library.png" width="180" alt="Grade 11 textbook library"/>
   &nbsp;
-  <img src="assets/grade11-textbooks/Screenshot_20260803_112952.png" width="180" alt="Grade 11 textbook chapters"/>
+  <img src="assets/screenshots/grade-11-textbooks/grade11-subject-units.png" width="180" alt="Grade 11 textbook chapters"/>
   &nbsp;
-  <img src="assets/grade11-textbooks/Screenshot_20260803_113033.png" width="180" alt="Grade 11 textbook reader"/>
+  <img src="assets/screenshots/grade-11-textbooks/grade11-pdf-reader.png" width="180" alt="Grade 11 textbook reader"/>
   &nbsp;
-  <img src="assets/grade11-textbooks/Screenshot_20260803_112840.png" width="180" alt="Grade 11 progress"/>
+  <img src="assets/screenshots/grade-11-textbooks/grade11-progress-tracking.png" width="180" alt="Grade 11 progress"/>
 </p>
 
 ---
@@ -1628,13 +1628,13 @@ Firebase can enhance the application without becoming an unnecessary dependency 
 ## Electric Bill Calculator Screenshots
 
 <p align="center">
-  <img src="assets/electric-bill-calculator/Screenshot_20260330_001150.png" width="180" alt="Electric Bill Calculator home screen"/>
+  <img src="assets/screenshots/electric-bill-calculator/electric-bill-calculator-home.png" width="180" alt="Electric Bill Calculator home screen"/>
   &nbsp;
-  <img src="assets/electric-bill-calculator/Screenshot_20260330_001323.png" width="180" alt="Electric meter input"/>
+  <img src="assets/screenshots/electric-bill-calculator/electric-bill-calculator-enter-reading.png" width="180" alt="Electric meter input"/>
   &nbsp;
-  <img src="assets/electric-bill-calculator/Screenshot_20260330_001437.png" width="180" alt="Electric bill result"/>
+  <img src="assets/screenshots/electric-bill-calculator/electric-bill-calculator-estimated-result.png" width="180" alt="Electric bill result"/>
   &nbsp;
-  <img src="assets/electric-bill-calculator/Screenshot_20260330_001509.png" width="180" alt="Electric Bill Calculator additional functionality"/>
+  <img src="assets/screenshots/electric-bill-calculator/electric-bill-calculator-consumption-dashboard.png" width="180" alt="Electric Bill Calculator additional functionality"/>
 </p>
 
 ### Google Play
@@ -2054,17 +2054,45 @@ android-engineering-portfolio/
     │   ├── grade_11_play_app_icon.png
     │   └── ebc_app_icon.png
     │
-    ├── grade9-mathematics/
-    │   └── screenshots
-    │
-    ├── grade9-geography/
-    │   └── screenshots
-    │
-    ├── grade11-textbooks/
-    │   └── screenshots
-    │
-    └── electric-bill-calculator/
-        └── screenshots
+    └── screenshots/
+        │
+        ├── mathematics-grade-9/
+        │   ├── mathematics-grade9-home.png
+        │   ├── mathematics-grade9-pdf-reader.png
+        │   ├── mathematics-grade9-pdf-page.png
+        │   ├── mathematics-grade9-summary.png
+        │   ├── mathematics-grade9-quiz.png
+        │   └── mathematics-grade9-ai-tutor.png
+        │
+        ├── geography-grade-9/
+        │   ├── geography-grade9-home.png
+        │   ├── geography-grade9-pdf-reader.png
+        │   ├── geography-grade9-summary.png
+        │   ├── geography-grade9-quiz.png
+        │   ├── geography-grade9-quiz-result.png
+        │   ├── geography-grade9-progress.png
+        │   └── geography-grade9-ai-tutor.png
+        │
+        ├── grade-11-textbooks/
+        │   ├── grade11-multi-subject-library.png
+        │   ├── grade11-asset-download.png
+        │   ├── grade11-subject-units.png
+        │   ├── grade11-pdf-reader.png
+        │   ├── grade11-cross-subject-bookmarks.png
+        │   ├── grade11-cross-subject-summaries.png
+        │   ├── grade11-quiz.png
+        │   └── grade11-progress-tracking.png
+        │
+        └── electric-bill-calculator/
+            ├── electric-bill-calculator-home.png
+            ├── electric-bill-calculator-enter-reading.png
+            ├── electric-bill-calculator-estimated-result.png
+            ├── electric-bill-calculator-consumption-dashboard.png
+            ├── electric-bill-calculator-tariffs-overview.png
+            ├── electric-bill-calculator-tariff-plans.png
+            ├── electric-bill-calculator-bill-history.png
+            ├── electric-bill-calculator-bill-details.png
+            └── electric-bill-calculator-energy-saving-tips.png
 ```
 
 The repository intentionally focuses on **engineering documentation, architecture, production experience, and real application evidence** rather than publishing proprietary production source code.
